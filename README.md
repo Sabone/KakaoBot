@@ -9,6 +9,7 @@
 <pre>
 KakaoTalk.send(room, message); 메세지를 특정 방으로 보냅니다.
 KakaoTalk.send(message); 메세지를 마지막에 알림 온 방으로 보냅니다.
+KakaoTalk.getContext();
 </pre>
 
 # Update
